@@ -1,4 +1,10 @@
-### Добрый день, меня зовут Артем
+### Добрый день, меня зовут Артем 💥
+* 💻 Стремлюсь писать понятный и красивый код
+* ⭐ Хочу работать над интересными проектами
+* 🚀 Постоянно учусь и развиваюсь!
+*  ##### 🔍 Для связи: 
+* email: art.usach@yandex.ru
+* telegram: https://t.me/ArtUsach
 
 #### 🔧 Мой стек:
 * JavaScript(ES6)
@@ -19,6 +25,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artem-Usachev&count_private=true&count_private=true&show_icons=true&theme=slateorange)
 
-#### 🔍 Для связи: 
-* email: art.usach@yandex.ru
-* telegram: https://t.me/ArtUsach
+

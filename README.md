@@ -3,8 +3,8 @@
 * ⭐ Хочу работать над интересными проектами
 * 🚀 Постоянно учусь и развиваюсь!
 * 🔍 Для связи: 
-email: art.usach@yandex.ru
-telegram: https://t.me/ArtUsach
+email - art.usach@yandex.ru
+telegram - https://t.me/ArtUsach
 
 #### 🔧 Мой стек:
 * JavaScript(ES6)

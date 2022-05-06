@@ -1,7 +1,19 @@
 ### Добрый день, меня зовут Артем
 
 #### 🔧 Мой стек:
-JavaScript(ES6), HTML, CSS, TypeScript, React, Redux,  Node.js, Express, MongoDB, Mongoose, Git, Webpack, Npm
+* JavaScript(ES6)
+* HTML
+* CSS
+* TypeScript
+* React
+* Redux
+* Node.js
+* Express 
+* MongoDB
+* Mongoose
+* Git
+* Webpack
+* Npm
 
 #### 📊 Моя статистика:
 
